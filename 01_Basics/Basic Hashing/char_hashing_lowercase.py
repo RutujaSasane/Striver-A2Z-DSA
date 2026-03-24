@@ -1,5 +1,4 @@
 # when the string contains only lowercase letters
-
 s = "abcdabefc"
 
 hash_arr = [0]*26   
